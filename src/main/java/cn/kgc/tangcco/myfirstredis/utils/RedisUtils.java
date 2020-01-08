@@ -1,6 +1,6 @@
 package cn.kgc.tangcco.myfirstredis.utils;
 
-import org.springframework.beans.factory.annotation.Autowired;
+
 import org.springframework.dao.DataAccessException;
 import org.springframework.data.redis.connection.RedisConnection;
 import org.springframework.data.redis.core.RedisCallback;
@@ -8,6 +8,8 @@ import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.data.redis.core.ValueOperations;
 import org.springframework.data.redis.serializer.StringRedisSerializer;
 import org.springframework.stereotype.Component;
+
+import javax.annotation.Resource;
 
 /**
  * @program: myfirstredis
@@ -19,7 +21,8 @@ import org.springframework.stereotype.Component;
 @Component
 public class RedisUtils {
 
-    @Autowired
+
+    @Resource
     private RedisTemplate<String,Object> redisTemplate;
 
     /**
