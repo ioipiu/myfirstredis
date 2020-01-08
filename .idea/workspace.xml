@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="133bf127-c68c-498a-91cc-79d7db26808e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/kgc/tangcco/myfirstredis/service/impl/QNServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/kgc/tangcco/myfirstredis/config/ClusterConfigurationProperties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/kgc/tangcco/myfirstredis/config/RedisClusterConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/kgc/tangcco/myfirstredis/controller/RedisController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/kgc/tangcco/myfirstredis/controller/RedisController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/kgc/tangcco/myfirstredis/utils/RedisUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/kgc/tangcco/myfirstredis/utils/RedisUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cn/kgc/tangcco/myfirstredis/MyfirstredisApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cn/kgc/tangcco/myfirstredis/MyfirstredisApplicationTests.java" afterDir="false" />
+    <list default="true" id="133bf127-c68c-498a-91cc-79d7db26808e" name="Default Changelist" comment="swagger quartz 七牛云">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,12 +198,24 @@
       <workItem from="1578139121583" duration="10904000" />
       <workItem from="1578270123816" duration="22498000" />
       <workItem from="1578356267015" duration="11155000" />
-      <workItem from="1578442997920" duration="15538000" />
+      <workItem from="1578442997920" duration="16399000" />
     </task>
+    <task id="LOCAL-00001" summary="swagger quartz 七牛云">
+      <created>1578468592237</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578468592237</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="swagger quartz 七牛云" />
+    <option name="LAST_COMMIT_MESSAGE" value="swagger quartz 七牛云" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Updates" timestamp="1578035799793">
@@ -249,10 +254,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578293661694" />
-    <state x="560" y="111" key="CommitChangelistDialog2" timestamp="1578468587917">
+    <state x="560" y="111" key="CommitChangelistDialog2" timestamp="1578468617292">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="111" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578468587917" />
+    <state x="560" y="111" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578468617292" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1578107215647">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -297,14 +302,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="371" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578464767106" />
+    <state x="590" y="242" key="RollbackChangesDialog" timestamp="1578468650069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="590" y="242" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578468650069" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1578036067811">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578036067811" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1578468477802">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1578469552035">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578468477802" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578469552035" />
     <state x="636" y="253" width="647" height="534" key="find.popup" timestamp="1578141925425">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
