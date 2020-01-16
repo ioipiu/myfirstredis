@@ -9,6 +9,7 @@ import io.swagger.annotations.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import javax.servlet.http.HttpServletRequest;
@@ -36,7 +37,8 @@ public class RedisController {
     @ResponseBody
     @ApiOperation(value = "输入学号和密码，验证信息",notes = "对了就给学生数据，错了就返回字符串")
     @ApiImplicitParams({
-            @ApiImplicitParam(name = "Student",value = "student",dataType = "Student")
+            @ApiImplicitParam(name = "sid",value = "student",dataType = "Student"),
+            @ApiImplicitParam(name = "pwd",value = "student",dataType = "Student")
     })
     @ApiResponses({
             @ApiResponse(code = 2001,message = "登录失败"),
@@ -56,6 +58,13 @@ public class RedisController {
         result.setMessage("登录成功，欢迎您："+stu.getSname());
         result.setData(JSON.toJSONString(map));
         return result;
+    }
+
+    @RequestMapping("/getToken")
+    @ResponseBody
+    public String getToken() {
+        String name = (String) redisUtils.get("name");
+        return name;
     }
 
 }

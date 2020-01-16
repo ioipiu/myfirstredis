@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="133bf127-c68c-498a-91cc-79d7db26808e" name="Default Changelist" comment="swagger quartz 七牛云">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bd10@123.57.145.243" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bd10@123.57.145.243" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bd10@123.57.145.243" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="bd10: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bd10@123.57.145.243" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="bd10: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="students: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bd10@123.57.145.243" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="bd10: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="students_copy: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/cn/kgc/tangcco/myfirstredis/utils/RedisUtils.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\m2\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VjqAtLd49Yuu35I6yiSsiEr6Pf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaProject\myfirstredis\src\main\resources\templates" />
+      <recent name="D:\ideaProject\myfirstredis\src\main\java\cn\kgc\tangcco\myfirstredis\utils" />
+      <recent name="D:\ideaProject\myfirstredis\src\main\resources\mappers" />
+      <recent name="D:\ideaProject\myfirstredis\src\main\resources\static\mappers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MyfirstredisApplication">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kgc.tangcco.myfirstredis.quartz.Test" />
+      <module name="myfirstredis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.kgc.tangcco.myfirstredis.quartz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyfirstredisApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myfirstredis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.kgc.tangcco.myfirstredis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.kgc.tangcco.myfirstredis" />
+      <option name="MAIN_CLASS_NAME" value="cn.kgc.tangcco.myfirstredis.MyfirstredisApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyfirstredisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="myfirstredis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.kgc.tangcco.myfirstredis.MyfirstredisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="JUnit.MyfirstredisApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="133bf127-c68c-498a-91cc-79d7db26808e" name="Default Changelist" comment="" />
+      <created>1577776711702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577776711702</updated>
+      <workItem from="1577776715626" duration="1470000" />
+      <workItem from="1577931361822" duration="16000" />
+      <workItem from="1578013092879" duration="16704000" />
+      <workItem from="1578036095626" duration="3163000" />
+      <workItem from="1578097065013" duration="11213000" />
+      <workItem from="1578115773239" duration="86000" />
+      <workItem from="1578116251099" duration="3968000" />
+      <workItem from="1578139121583" duration="10904000" />
+      <workItem from="1578270123816" duration="22498000" />
+      <workItem from="1578356267015" duration="11155000" />
+      <workItem from="1578442997920" duration="16399000" />
+    </task>
+    <task id="LOCAL-00001" summary="swagger quartz 七牛云">
+      <created>1578468592237</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578468592237</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="swagger quartz 七牛云" />
+    <option name="LAST_COMMIT_MESSAGE" value="swagger quartz 七牛云" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Updates" timestamp="1578035799793">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Updates/0.0.1920.1040@0.0.1920.1040" timestamp="1578035799793" />
+    <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1578108215081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578108215081" />
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578107135526">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578107135526" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1578453047135">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578453047135" />
+    <state x="580" y="198" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1578142963122">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="580" y="198" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578142963122" />
+    <state x="640" y="246" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578035800837">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="246" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578035800837" />
+    <state x="739" y="378" width="449" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1578293991470">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="378" width="449" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1578293991470" />
+    <state x="616" y="89" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578107376017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="89" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578107376017" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578293661694">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578293661694" />
+    <state x="560" y="111" key="CommitChangelistDialog2" timestamp="1578468617292">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="111" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578468617292" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1578107215647">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578107215647" />
+    <state x="824" y="413" width="273" height="213" key="Github.ShareDialog" timestamp="1578293623068">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="824" y="413" width="273" height="213" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578293623068" />
+    <state x="754" y="223" key="Github.UntrackedFilesDialog" timestamp="1578293629721">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="754" y="223" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578293629721" />
+    <state width="1877" height="371" key="GridCell.Tab.0.bottom" timestamp="1578464767106">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578464767106" />
+    <state width="1877" height="371" key="GridCell.Tab.0.center" timestamp="1578464767106">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578464767106" />
+    <state width="1877" height="371" key="GridCell.Tab.0.left" timestamp="1578464767106">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578464767106" />
+    <state width="1877" height="371" key="GridCell.Tab.0.right" timestamp="1578464767106">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578464767106" />
+    <state width="1877" height="371" key="GridCell.Tab.1.bottom" timestamp="1578464767106">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578464767106" />
+    <state width="1877" height="371" key="GridCell.Tab.1.center" timestamp="1578464767106">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578464767106" />
+    <state width="1877" height="371" key="GridCell.Tab.1.left" timestamp="1578464767106">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578464767106" />
+    <state width="1877" height="371" key="GridCell.Tab.1.right" timestamp="1578464767106">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578464767106" />
+    <state x="590" y="242" key="RollbackChangesDialog" timestamp="1578468650069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="590" y="242" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578468650069" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1578036067811">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578036067811" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1578469552035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578469552035" />
+    <state x="636" y="253" width="647" height="534" key="find.popup" timestamp="1578141925425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="253" width="647" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578141925425" />
+    <state x="334" y="221" key="new project wizard" timestamp="1578447064197">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="221" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1578447064197" />
+  </component>
+</project>
